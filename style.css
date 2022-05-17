@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+a:nth-child(even) {
+    background-color: grey;
+}
+
+span > span > span {
+    background-color: red;
+}
+
+p:last-of-type {
+    padding-top: 20%;
+}
